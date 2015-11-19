@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>shippingquote</name>
+	<displayName><![CDATA[Shipping Quote]]></displayName>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[Allows customer requested shipping quote to be manually set in the back office.]]></description>
+	<author><![CDATA[Larry Sacherich]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

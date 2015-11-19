@@ -1,0 +1,16 @@
+Hello {firstname} {lastname},
+
+Your shipping quote request has been sent successfully
+and we will answer as soon as possible. If you have any questions, 
+please contact us at:  
+{shop_url}/index.php?controller=contact-form
+
+
+Thank you for shopping at {shop_name}
+
+Your Message (if any):
+{message}
+
+
+{shop_url} powered by PrestaShop™ 
+                        

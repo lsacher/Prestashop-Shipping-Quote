@@ -1,0 +1,17 @@
+Dear merchant,
+
+You have received a Shipping Quote Request. 
+
+Customer name: {firstname} {lastname}
+
+Customer e-mail address: {email}
+
+Customer shopping cart ID: {cart_id}
+
+Customer shopping cart: {cart_url}
+
+Customer's message (if any): 
+{message}
+
+
+{shop_name} powered by PrestaShop™
